@@ -1,0 +1,1 @@
+Can I crack the zmap hash?
